@@ -13,7 +13,7 @@ This project focuses on a data-driven approach to optimize Aadhaar services acro
 ## 📂 Project Deliverables
 * 📄 **[Technical Report (PDF)](UIDAI_Report.pdf)** *(Click above to open the full strategic analysis report)*
 
-* 💻 **[Analysis Code (Jupyter Notebook)](UIDAI_Analysis_Code.ipynb)** *(Click above to view the Python code, data cleaning, and forecasting models)*
+* 💻 **[Analysis Code (Google Colab)](UIDAI_Analysis_Code.ipynb)** *(Click above to view the Python code, data cleaning, and forecasting models)*
 
 ## 👤 Author
 **Kidwai Moniza Javed**
